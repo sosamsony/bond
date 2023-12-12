@@ -1,5 +1,5 @@
-# Investment Bond Porject.
-I developed this project for a client, and now decided to turn it to a template for other developer to utilize as an open-source project.
+# Investment Bond Project.
+I developed this project for my students to practice and now decided to turn it into a template for other developers to utilize as an open-source project.
 
 #Just ensure you give a star and follow me for more. Thank you 
 
